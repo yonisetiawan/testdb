@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id": 1,
+  "name": "Authentic Balinese Food"
+  "gambar": "https://i.pinimg.com/564x/6e/52/70/6e5270e53e0518796ee8cc7ac2428474.jpg" 
+  "ket": "one must not leave Bali without trying these 10 authentic and super delicious Balinese food. The best part is, we even throw in a few recommendations on where to find these amazing delicacies"
 }
