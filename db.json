@@ -1,11 +1,16 @@
 {
-    "posts": [
+    "pustakagambar": [
         {
             "id": 1,
-            "title": "hello"
+            "nama": "hello",
+            "linkgambar": "https://i.pinimg.com/564x/6e/52/70/6e5270e53e0518796ee8cc7ac2428474.jpg",
+            "ket": "ini adalah keterangan gambar"
+        },
+         {
+            "id": 2,
+            "nama": "hello2",
+            "linkgambar": "https://i.pinimg.com/564x/6e/52/70/6e5270e53e0518796ee8cc7ac2428474.jpg",
+            "ket": "ini adalah keterangan gambar"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
